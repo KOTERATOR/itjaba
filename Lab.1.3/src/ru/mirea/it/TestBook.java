@@ -1,6 +1,6 @@
 package ru.mirea.it;
 
-public class BookTest {
+public class TestBook {
     public static void test() {
         Book book = new Book("Title 1", new String[]{"Page 1", "Page 2", "Page 3"}, "Author 1", "Genre 1");
         System.out.println(book);

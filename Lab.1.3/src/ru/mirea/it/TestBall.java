@@ -1,6 +1,6 @@
 package ru.mirea.it;
 
-public class BallTest {
+public class TestBall {
     public static void test() {
         Ball ball1 = new Ball(10.0f, "red", Ball.BallType.Football);
         System.out.println(ball1);
